@@ -1,0 +1,2802 @@
+[
+  {
+    "wholesaleCode": "000",
+    "retailCode": "010",
+    "name": "Black",
+    "hex": "#1f2325",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "001",
+    "retailCode": "795",
+    "name": "Antique Green",
+    "hex": "#fbf4e2",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "003",
+    "retailCode": "799",
+    "name": "Maize Yellow",
+    "hex": "#fbd89f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "005",
+    "retailCode": "501",
+    "name": "Pongee",
+    "hex": "#fbe3c6",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "006",
+    "retailCode": "797",
+    "name": "Capucine Buff",
+    "hex": "#fcdaae",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "007",
+    "retailCode": "816",
+    "name": "Primrose",
+    "hex": "#fdda8c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "008",
+    "retailCode": "100",
+    "name": "Silver",
+    "hex": "#d4dbdd",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "011",
+    "retailCode": "276",
+    "name": "English",
+    "hex": "#1a2a4e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "013",
+    "retailCode": "275",
+    "name": "Nautical",
+    "hex": "#182c52",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "016",
+    "retailCode": "390",
+    "name": "Flamingo",
+    "hex": "#f74f56",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "018",
+    "retailCode": "784",
+    "name": "Spruce",
+    "hex": "#183533",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "019",
+    "retailCode": "553",
+    "name": "Mink Brown",
+    "hex": "#603d24",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "021",
+    "retailCode": "588",
+    "name": "Coconut",
+    "hex": "#302723",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "023",
+    "retailCode": "593",
+    "name": "Seal Brown",
+    "hex": "#2a1e26",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "025",
+    "retailCode": "625",
+    "name": "Ming Blue",
+    "hex": "#1c7297",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "026",
+    "retailCode": "431",
+    "name": "Light Cranberry",
+    "hex": "#b23542",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "028",
+    "retailCode": "618",
+    "name": "Cruise Blue",
+    "hex": "#73d3dd",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "032",
+    "retailCode": null,
+    "name": null,
+    "hex": "#1c2336",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "035",
+    "retailCode": "112",
+    "name": "Grey",
+    "hex": "#5d615d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "036",
+    "retailCode": "125",
+    "name": "Charcoal",
+    "hex": "#394344",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "037",
+    "retailCode": "933",
+    "name": "Copenhagen",
+    "hex": "#486f9c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "038",
+    "retailCode": "102",
+    "name": "Mist Grey",
+    "hex": "#a0abad",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "040",
+    "retailCode": "110",
+    "name": "Slate",
+    "hex": "#8f9ea1",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "043",
+    "retailCode": null,
+    "name": null,
+    "hex": "#f9b5c2",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "046",
+    "retailCode": "420",
+    "name": "Chili Red",
+    "hex": "#a32935",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "052",
+    "retailCode": "911",
+    "name": "Dogwood",
+    "hex": "#8f6673",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "053",
+    "retailCode": "600",
+    "name": "Opal Blue",
+    "hex": "#ade4e6",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "055",
+    "retailCode": "686",
+    "name": "Blue Turquoise",
+    "hex": "#2e99a1",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "064",
+    "retailCode": "224",
+    "name": "Tile Blue",
+    "hex": "#7b9cb3",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "066",
+    "retailCode": "268",
+    "name": "French Navy",
+    "hex": "#1e2755",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "068",
+    "retailCode": null,
+    "name": null,
+    "hex": "#33567d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "071",
+    "retailCode": null,
+    "name": null,
+    "hex": "#91c1c7",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "074",
+    "retailCode": null,
+    "name": null,
+    "hex": "#739dc1",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "075",
+    "retailCode": "220",
+    "name": "Blue Dawn",
+    "hex": "#9fc5d2",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "076",
+    "retailCode": null,
+    "name": null,
+    "hex": "#4b7188",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "078",
+    "retailCode": null,
+    "name": null,
+    "hex": "#215e9a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "079",
+    "retailCode": null,
+    "name": null,
+    "hex": "#d47d76",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "080",
+    "retailCode": "352",
+    "name": "Coral Rose",
+    "hex": "#e67f7c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "081",
+    "retailCode": "442",
+    "name": "Tapestry",
+    "hex": "#bf596d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "082",
+    "retailCode": "395",
+    "name": "Geranium",
+    "hex": "#bd4255",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "086",
+    "retailCode": null,
+    "name": null,
+    "hex": "#354279",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "093",
+    "retailCode": "117",
+    "name": "Peppercorn",
+    "hex": "#44535e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "095",
+    "retailCode": null,
+    "name": null,
+    "hex": "#33424c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "100",
+    "retailCode": "657",
+    "name": "Creme De Mint",
+    "hex": "#73bca2",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "106",
+    "retailCode": "850",
+    "name": "Goldenrod",
+    "hex": "#ffc041",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "107",
+    "retailCode": null,
+    "name": null,
+    "hex": "#328f8e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "108",
+    "retailCode": "445",
+    "name": "Magenta",
+    "hex": "#431934",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "111",
+    "retailCode": "021",
+    "name": "Oyster",
+    "hex": "#fdf8ef",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "112",
+    "retailCode": "233",
+    "name": "Slate Blue",
+    "hex": "#3f628c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "118",
+    "retailCode": "513",
+    "name": "Light Nickel",
+    "hex": "#adaea4",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "121",
+    "retailCode": null,
+    "name": null,
+    "hex": "#d5b7a1",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "124",
+    "retailCode": "539",
+    "name": "Toast",
+    "hex": "#775440",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "125",
+    "retailCode": null,
+    "name": null,
+    "hex": "#a896a6",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "126",
+    "retailCode": null,
+    "name": null,
+    "hex": "#796171",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "127",
+    "retailCode": null,
+    "name": null,
+    "hex": "#685764",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "128",
+    "retailCode": null,
+    "name": null,
+    "hex": "#503e5e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "129",
+    "retailCode": "942",
+    "name": "Dark Purple",
+    "hex": "#624b76",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "130",
+    "retailCode": "455",
+    "name": "Wine",
+    "hex": "#311a2b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "131",
+    "retailCode": "508",
+    "name": "Mother Goose",
+    "hex": "#b3a688",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "132",
+    "retailCode": null,
+    "name": null,
+    "hex": "#a2aa97",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "139",
+    "retailCode": "536",
+    "name": "Tan",
+    "hex": "#a6826a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "141",
+    "retailCode": null,
+    "name": null,
+    "hex": "#3b484a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "143",
+    "retailCode": "227",
+    "name": "Copen Blue",
+    "hex": "#6dabc6",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "148",
+    "retailCode": "765",
+    "name": "Dusty Green",
+    "hex": "#4f6c46",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "152",
+    "retailCode": "704",
+    "name": "Light Green",
+    "hex": "#cbe4b2",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "153",
+    "retailCode": "710",
+    "name": "New Leaf",
+    "hex": "#99d28d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "154",
+    "retailCode": null,
+    "name": null,
+    "hex": "#95d39a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "155",
+    "retailCode": "400",
+    "name": "Poppy",
+    "hex": "#fa5330",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "156",
+    "retailCode": "410",
+    "name": "Scarlet",
+    "hex": "#d72f3d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "158",
+    "retailCode": "907",
+    "name": "Dahlia",
+    "hex": "#aca0ca",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "160",
+    "retailCode": null,
+    "name": null,
+    "hex": "#837262",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "164",
+    "retailCode": null,
+    "name": null,
+    "hex": "#33493c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "165",
+    "retailCode": "370",
+    "name": "Tea Rose",
+    "hex": "#fdc4ad",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "167",
+    "retailCode": "680",
+    "name": "Marine Aqua",
+    "hex": "#21725f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "169",
+    "retailCode": "030",
+    "name": "Bone",
+    "hex": "#ead6be",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "170",
+    "retailCode": "503",
+    "name": "Flax",
+    "hex": "#dcb596",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "174",
+    "retailCode": "573",
+    "name": "Barnside",
+    "hex": "#4f232c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "175",
+    "retailCode": "592",
+    "name": "Chili Brown",
+    "hex": "#331c28",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "177",
+    "retailCode": "835",
+    "name": "Lemon",
+    "hex": "#f7d04b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "179",
+    "retailCode": "527",
+    "name": "Cafe Beige",
+    "hex": "#b98667",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "180",
+    "retailCode": "548",
+    "name": "Cork",
+    "hex": "#745442",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "186",
+    "retailCode": "500",
+    "name": "Ecru",
+    "hex": "#d9b99b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "188",
+    "retailCode": "862",
+    "name": "Autumn Gold",
+    "hex": "#fa9639",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "189",
+    "retailCode": null,
+    "name": null,
+    "hex": "#1c6d78",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "190",
+    "retailCode": null,
+    "name": null,
+    "hex": "#2d3539",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "191",
+    "retailCode": "652",
+    "name": "Clear Jade",
+    "hex": "#97dcd5",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "192",
+    "retailCode": "607",
+    "name": "Crystal Blue",
+    "hex": "#5fc6c6",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "193",
+    "retailCode": "505",
+    "name": "String Beige",
+    "hex": "#deedf0",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "194",
+    "retailCode": "203",
+    "name": "Light Blue",
+    "hex": "#b8e3e7",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "195",
+    "retailCode": "206",
+    "name": "Baby Blue",
+    "hex": "#9fe0e8",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "196",
+    "retailCode": "209",
+    "name": "Powder Blue",
+    "hex": "#75cee0",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "197",
+    "retailCode": "211",
+    "name": "True Blue",
+    "hex": "#35a4c6",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "198",
+    "retailCode": null,
+    "name": null,
+    "hex": "#d6bba1",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "199",
+    "retailCode": "526",
+    "name": "Fawn Beige",
+    "hex": "#867164",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "202",
+    "retailCode": null,
+    "name": null,
+    "hex": "#7f83a7",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "203",
+    "retailCode": null,
+    "name": null,
+    "hex": "#395a9f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "205",
+    "retailCode": "740",
+    "name": "Vivid Green",
+    "hex": "#8fd4ac",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "208",
+    "retailCode": null,
+    "name": null,
+    "hex": "#907f64",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "209",
+    "retailCode": null,
+    "name": null,
+    "hex": "#625248",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "210",
+    "retailCode": null,
+    "name": null,
+    "hex": "#fadbcb",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "211",
+    "retailCode": "913",
+    "name": "Rose Lilac",
+    "hex": "#cb89bb",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "213",
+    "retailCode": "218",
+    "name": "Wedgewood",
+    "hex": "#3b7bb2",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "214",
+    "retailCode": "257",
+    "name": "Yale Blue",
+    "hex": "#173f75",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "215",
+    "retailCode": "512",
+    "name": "Putty",
+    "hex": "#b4987d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "216",
+    "retailCode": null,
+    "name": null,
+    "hex": "#8c6867",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "218",
+    "retailCode": "263",
+    "name": "Geneva Blue",
+    "hex": "#243e7d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "221",
+    "retailCode": "570",
+    "name": "Rust",
+    "hex": "#7f2831",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "222",
+    "retailCode": null,
+    "name": null,
+    "hex": "#42342e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "223",
+    "retailCode": "690",
+    "name": "Deep Lagoon",
+    "hex": "#255969",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "224",
+    "retailCode": null,
+    "name": null,
+    "hex": "#9bb596",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "226",
+    "retailCode": "440",
+    "name": "Claret",
+    "hex": "#751e32",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "227",
+    "retailCode": "576",
+    "name": "Dark Copper",
+    "hex": "#6a2728",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "230",
+    "retailCode": "578",
+    "name": "Chocolate",
+    "hex": "#472125",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "232",
+    "retailCode": "260",
+    "name": "Royal Blue",
+    "hex": "#1a3063",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "234",
+    "retailCode": "655",
+    "name": "Aqua",
+    "hex": "#a7e0d5",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "235",
+    "retailCode": "660",
+    "name": "Light Turquoise",
+    "hex": "#35a49a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "237",
+    "retailCode": "748",
+    "name": "Green",
+    "hex": "#23593d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "239",
+    "retailCode": "745",
+    "name": "Pepper Green",
+    "hex": "#2e895c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "241",
+    "retailCode": "510",
+    "name": "Taupe",
+    "hex": "#787468",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "245",
+    "retailCode": "355",
+    "name": "Dusk",
+    "hex": "#a56663",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "247",
+    "retailCode": "938",
+    "name": "Cyclamen",
+    "hex": "#832866",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "249",
+    "retailCode": null,
+    "name": null,
+    "hex": "#dfcc98",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "252",
+    "retailCode": null,
+    "name": null,
+    "hex": "#463a35",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "257",
+    "retailCode": "941",
+    "name": "Dark Plum",
+    "hex": "#2d274f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "258",
+    "retailCode": "523",
+    "name": "Pebble",
+    "hex": "#9a9573",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "259",
+    "retailCode": "937",
+    "name": "Dewberry",
+    "hex": "#673c65",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "261",
+    "retailCode": "722",
+    "name": "Seaweed",
+    "hex": "#9db09d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "262",
+    "retailCode": "441",
+    "name": "Redwood",
+    "hex": "#65333c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "263",
+    "retailCode": "509",
+    "name": "Beige",
+    "hex": "#a39279",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "264",
+    "retailCode": null,
+    "name": null,
+    "hex": "#7b775f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "265",
+    "retailCode": "520",
+    "name": "Wheat",
+    "hex": "#b19470",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "269",
+    "retailCode": "766",
+    "name": "Khaki Green",
+    "hex": "#3e524b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "274",
+    "retailCode": null,
+    "name": null,
+    "hex": "#4a5954",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "276",
+    "retailCode": "207",
+    "name": "Echo Blue",
+    "hex": "#b8dee6",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "278",
+    "retailCode": "212",
+    "name": "Frosty Blue",
+    "hex": "#3c9dc4",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "280",
+    "retailCode": null,
+    "name": null,
+    "hex": "#422e25",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "282",
+    "retailCode": "721",
+    "name": "Mist Green",
+    "hex": "#b3c086",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "283",
+    "retailCode": "776",
+    "name": "Moss Green",
+    "hex": "#5b7945",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "285",
+    "retailCode": "460",
+    "name": "Apricot",
+    "hex": "#f77f3f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "286",
+    "retailCode": null,
+    "name": null,
+    "hex": "#b79b42",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "288",
+    "retailCode": null,
+    "name": null,
+    "hex": "#644a2a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "289",
+    "retailCode": null,
+    "name": null,
+    "hex": "#573e2e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "291",
+    "retailCode": "926",
+    "name": "Light Purple",
+    "hex": "#906eb2",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "292",
+    "retailCode": null,
+    "name": null,
+    "hex": "#f2f0c2",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "296",
+    "retailCode": null,
+    "name": null,
+    "hex": "#598060",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "297",
+    "retailCode": "700",
+    "name": "Mint Green",
+    "hex": "#a4cbbf",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "299",
+    "retailCode": null,
+    "name": null,
+    "hex": "#ddd2c1",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "300",
+    "retailCode": "863",
+    "name": "Light Nutmeg",
+    "hex": "#f6a761",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "302",
+    "retailCode": null,
+    "name": null,
+    "hex": "#2e4c42",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "304",
+    "retailCode": "793",
+    "name": "Evergreen",
+    "hex": "#202720",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "307",
+    "retailCode": "504",
+    "name": "Cashmere",
+    "hex": "#cb8f5f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "308",
+    "retailCode": null,
+    "name": null,
+    "hex": "#433f41",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "309",
+    "retailCode": "266",
+    "name": "Brite Navy",
+    "hex": "#1b2957",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "310",
+    "retailCode": "272",
+    "name": "Navy",
+    "hex": "#192246",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "311",
+    "retailCode": "230",
+    "name": "Alpine Blue",
+    "hex": "#2e71a6",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "312",
+    "retailCode": "254",
+    "name": "Brite Blue",
+    "hex": "#194a80",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "315",
+    "retailCode": "251",
+    "name": "Cobalt Blue",
+    "hex": "#144f95",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "316",
+    "retailCode": null,
+    "name": null,
+    "hex": "#154483",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "320",
+    "retailCode": "912",
+    "name": "Charm",
+    "hex": "#f4cede",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "321",
+    "retailCode": "936",
+    "name": "Laurel",
+    "hex": "#a23e8c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "322",
+    "retailCode": "248",
+    "name": "Electric Blue",
+    "hex": "#135799",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "324",
+    "retailCode": null,
+    "name": null,
+    "hex": "#192243",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "325",
+    "retailCode": "815",
+    "name": "Canary",
+    "hex": "#f9dba2",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "327",
+    "retailCode": "820",
+    "name": "Buttercup",
+    "hex": "#f9d675",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "328",
+    "retailCode": "601",
+    "name": "Aqua Blue",
+    "hex": "#86d8d8",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "331",
+    "retailCode": "602",
+    "name": "Aqua Mist",
+    "hex": "#99d5d0",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "332",
+    "retailCode": "620",
+    "name": "Nassau Blue",
+    "hex": "#3ca4b6",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "334",
+    "retailCode": "712",
+    "name": "Lime",
+    "hex": "#dedc69",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "336",
+    "retailCode": "716",
+    "name": "Spring Green",
+    "hex": "#97cc69",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "339",
+    "retailCode": "278",
+    "name": "Midnight",
+    "hex": "#191e39",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "340",
+    "retailCode": "788",
+    "name": "Dark Green",
+    "hex": "#1e4737",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "350",
+    "retailCode": "462",
+    "name": "Tangerine",
+    "hex": "#ff8734",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "351",
+    "retailCode": "470",
+    "name": "Orange",
+    "hex": "#fa5e26",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "362",
+    "retailCode": "860",
+    "name": "Sun Flower",
+    "hex": "#fd9a33",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "364",
+    "retailCode": "405",
+    "name": "Flame Red",
+    "hex": "#e23633",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "365",
+    "retailCode": "408",
+    "name": "True Red",
+    "hex": "#d73442",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "367",
+    "retailCode": "435",
+    "name": "Cranberry",
+    "hex": "#852332",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "368",
+    "retailCode": "436",
+    "name": "Maroon",
+    "hex": "#54182d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "369",
+    "retailCode": "450",
+    "name": "Burgundy",
+    "hex": "#451729",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "372",
+    "retailCode": "300",
+    "name": "Light Pink",
+    "hex": "#f8d8df",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "373",
+    "retailCode": null,
+    "name": null,
+    "hex": "#342f72",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "375",
+    "retailCode": "443",
+    "name": "Garnet",
+    "hex": "#601e38",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "377",
+    "retailCode": null,
+    "name": null,
+    "hex": "#dc7c5d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "382",
+    "retailCode": "345",
+    "name": "Raspberry",
+    "hex": "#dc3c6e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "383",
+    "retailCode": "394",
+    "name": "Peasant Red",
+    "hex": "#c6334b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "384",
+    "retailCode": "430",
+    "name": "Ruby Red",
+    "hex": "#8b2135",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "385",
+    "retailCode": null,
+    "name": null,
+    "hex": "#4dabbc",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "386",
+    "retailCode": "245",
+    "name": "Jay Blue",
+    "hex": "#218bc4",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "387",
+    "retailCode": "279",
+    "name": "Dark Midnight",
+    "hex": "#1a1d38",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "391",
+    "retailCode": "925",
+    "name": "Parma Violet",
+    "hex": "#635ba3",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "392",
+    "retailCode": "928",
+    "name": "Hydrangea",
+    "hex": "#4a3a89",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "396",
+    "retailCode": "760",
+    "name": "Kelly Green",
+    "hex": "#2e8047",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "397",
+    "retailCode": null,
+    "name": null,
+    "hex": "#8c844a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "399",
+    "retailCode": null,
+    "name": null,
+    "hex": "#393f2d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "401",
+    "retailCode": "744",
+    "name": "Jewel Green",
+    "hex": "#4cb57f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "402",
+    "retailCode": "752",
+    "name": "Grass Green",
+    "hex": "#206347",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "403",
+    "retailCode": "785",
+    "name": "Bench Green",
+    "hex": "#194f3f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "406",
+    "retailCode": "587",
+    "name": "Espresso",
+    "hex": "#2d2223",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "412",
+    "retailCode": "870",
+    "name": "Topaz",
+    "hex": "#da8a35",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "414",
+    "retailCode": "800",
+    "name": "Ivory",
+    "hex": "#fdecd3",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "415",
+    "retailCode": "827",
+    "name": "Dusty Gold",
+    "hex": "#fdcd7c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "416",
+    "retailCode": null,
+    "name": null,
+    "hex": "#fbc364",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "417",
+    "retailCode": "855",
+    "name": "Saffron",
+    "hex": "#ffd05d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "421",
+    "retailCode": "502",
+    "name": "Sahara",
+    "hex": "#ecc09a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "422",
+    "retailCode": "534",
+    "name": "Capri Beige",
+    "hex": "#ceab95",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "423",
+    "retailCode": null,
+    "name": null,
+    "hex": "#523d45",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "428",
+    "retailCode": null,
+    "name": null,
+    "hex": "#6f4d54",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "429",
+    "retailCode": null,
+    "name": null,
+    "hex": "#61404c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "432",
+    "retailCode": "775",
+    "name": "Bronzite",
+    "hex": "#626849",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "435",
+    "retailCode": "236",
+    "name": "Stone Blue",
+    "hex": "#2f5279",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "439",
+    "retailCode": "525",
+    "name": "Gabardine",
+    "hex": "#675750",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "440",
+    "retailCode": null,
+    "name": null,
+    "hex": "#535781",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "441",
+    "retailCode": "909",
+    "name": "Light Lilac",
+    "hex": "#d2b0ce",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "442",
+    "retailCode": "903",
+    "name": "Orchid",
+    "hex": "#d2c6e0",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "444",
+    "retailCode": null,
+    "name": null,
+    "hex": "#966854",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "446",
+    "retailCode": "575",
+    "name": "Saddle Brown",
+    "hex": "#4b3338",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "448",
+    "retailCode": "561",
+    "name": "Bittersweet",
+    "hex": "#a35d39",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "450",
+    "retailCode": "555",
+    "name": "Ginger",
+    "hex": "#5a3427",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "453",
+    "retailCode": null,
+    "name": null,
+    "hex": "#9e8355",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "454",
+    "retailCode": null,
+    "name": null,
+    "hex": "#866454",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "456",
+    "retailCode": null,
+    "name": null,
+    "hex": "#203f2d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "461",
+    "retailCode": null,
+    "name": null,
+    "hex": "#8b4044",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "463",
+    "retailCode": "944",
+    "name": "Frosty Plum",
+    "hex": "#2c3977",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "464",
+    "retailCode": "507",
+    "name": "Khaki",
+    "hex": "#b09a7f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "467",
+    "retailCode": null,
+    "name": null,
+    "hex": "#564b43",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "469",
+    "retailCode": null,
+    "name": null,
+    "hex": "#665b57",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "472",
+    "retailCode": "794",
+    "name": "Spectra Green",
+    "hex": "#162724",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "473",
+    "retailCode": "323",
+    "name": "Old Rose",
+    "hex": "#d1828b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "474",
+    "retailCode": "324",
+    "name": "Dark Rose",
+    "hex": "#9a535e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "478",
+    "retailCode": "571",
+    "name": "Zinnia Rust",
+    "hex": "#603232",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "480",
+    "retailCode": null,
+    "name": null,
+    "hex": "#453b3a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "482",
+    "retailCode": null,
+    "name": null,
+    "hex": "#1e7196",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "483",
+    "retailCode": null,
+    "name": null,
+    "hex": "#175878",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "487",
+    "retailCode": null,
+    "name": null,
+    "hex": "#142339",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "488",
+    "retailCode": null,
+    "name": null,
+    "hex": "#f3bd65",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "491",
+    "retailCode": "406",
+    "name": "Tiger Lilly",
+    "hex": "#f24447",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "493",
+    "retailCode": null,
+    "name": null,
+    "hex": "#85888c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "495",
+    "retailCode": null,
+    "name": null,
+    "hex": "#959b98",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "496",
+    "retailCode": null,
+    "name": null,
+    "hex": "#6f7879",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "497",
+    "retailCode": "111",
+    "name": "Flint",
+    "hex": "#5f6e75",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "503",
+    "retailCode": "522",
+    "name": "Cornsilk",
+    "hex": "#c6c4a3",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "512",
+    "retailCode": "939",
+    "name": "Plum",
+    "hex": "#22243f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "517",
+    "retailCode": "447",
+    "name": "Mulberry",
+    "hex": "#372543",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "519",
+    "retailCode": "393",
+    "name": "Honeysuckle",
+    "hex": "#c84f58",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "521",
+    "retailCode": null,
+    "name": null,
+    "hex": "#4e698d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "528",
+    "retailCode": null,
+    "name": null,
+    "hex": "#776d50",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "531",
+    "retailCode": null,
+    "name": null,
+    "hex": "#30312a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "537",
+    "retailCode": null,
+    "name": null,
+    "hex": "#21345a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "540",
+    "retailCode": null,
+    "name": null,
+    "hex": "#423842",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "542",
+    "retailCode": null,
+    "name": null,
+    "hex": "#263033",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "545",
+    "retailCode": null,
+    "name": null,
+    "hex": "#829493",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "553",
+    "retailCode": null,
+    "name": null,
+    "hex": "#4c7663",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "555",
+    "retailCode": null,
+    "name": null,
+    "hex": "#2a4638",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "556",
+    "retailCode": null,
+    "name": null,
+    "hex": "#419c79",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "561",
+    "retailCode": "764",
+    "name": "Sage",
+    "hex": "#33503b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "568",
+    "retailCode": "910",
+    "name": "Mauve",
+    "hex": "#b99dae",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "571",
+    "retailCode": null,
+    "name": null,
+    "hex": "#5c4693",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "575",
+    "retailCode": "943",
+    "name": "Eggplant",
+    "hex": "#202b4d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "578",
+    "retailCode": "805",
+    "name": "Cream",
+    "hex": "#fce79a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "580",
+    "retailCode": "808",
+    "name": "Mimosa",
+    "hex": "#f5dd78",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "582",
+    "retailCode": null,
+    "name": null,
+    "hex": "#919c55",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "585",
+    "retailCode": "780",
+    "name": "Olive",
+    "hex": "#465c31",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "586",
+    "retailCode": "365",
+    "name": "Peach",
+    "hex": "#feb598",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "587",
+    "retailCode": null,
+    "name": null,
+    "hex": "#f38e69",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "589",
+    "retailCode": "476",
+    "name": "Copper",
+    "hex": "#c94532",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "591",
+    "retailCode": null,
+    "name": null,
+    "hex": "#bc9164",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "593",
+    "retailCode": "238",
+    "name": "Holland Blue",
+    "hex": "#2b4264",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "595",
+    "retailCode": null,
+    "name": null,
+    "hex": "#18273b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "597",
+    "retailCode": "782",
+    "name": "Black Olive",
+    "hex": "#2a3b27",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "598",
+    "retailCode": null,
+    "name": null,
+    "hex": "#223b4e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "610",
+    "retailCode": "803",
+    "name": "Butterfly",
+    "hex": "#fdecc9",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "612",
+    "retailCode": null,
+    "name": null,
+    "hex": "#d17749",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "616",
+    "retailCode": null,
+    "name": null,
+    "hex": "#a9bb52",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "624",
+    "retailCode": "446",
+    "name": "Red Melon",
+    "hex": "#973f5a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "631",
+    "retailCode": "930",
+    "name": "Periwinkle",
+    "hex": "#6c82bf",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "633",
+    "retailCode": null,
+    "name": null,
+    "hex": "#b2bbab",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "634",
+    "retailCode": "114",
+    "name": "Greymore",
+    "hex": "#83948c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "635",
+    "retailCode": null,
+    "name": null,
+    "hex": "#52605d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "636",
+    "retailCode": null,
+    "name": null,
+    "hex": "#354042",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "639",
+    "retailCode": "770",
+    "name": "Turtle",
+    "hex": "#2e5237",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "643",
+    "retailCode": null,
+    "name": null,
+    "hex": "#ebf1ed",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "649",
+    "retailCode": null,
+    "name": null,
+    "hex": "#904b2e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "650",
+    "retailCode": "554",
+    "name": "Cinnamon",
+    "hex": "#613428",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "655",
+    "retailCode": null,
+    "name": null,
+    "hex": "#b1c3da",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "656",
+    "retailCode": "900",
+    "name": "Iris",
+    "hex": "#b7c1d8",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "658",
+    "retailCode": "371",
+    "name": "Salmon Buff",
+    "hex": "#f9d6c9",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "659",
+    "retailCode": "305",
+    "name": "Petal Pink",
+    "hex": "#fad0d3",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "660",
+    "retailCode": "307",
+    "name": "Rosebud",
+    "hex": "#f9bac7",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "662",
+    "retailCode": null,
+    "name": null,
+    "hex": "#e9c2ca",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "663",
+    "retailCode": "322",
+    "name": "Medium Rose",
+    "hex": "#e091af",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "665",
+    "retailCode": "280",
+    "name": "Charcoal",
+    "hex": "#17182f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "669",
+    "retailCode": null,
+    "name": null,
+    "hex": "#685e5a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "671",
+    "retailCode": null,
+    "name": null,
+    "hex": "#2c282b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "672",
+    "retailCode": null,
+    "name": null,
+    "hex": "#5c4941",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "673",
+    "retailCode": null,
+    "name": null,
+    "hex": "#3b3c36",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "674",
+    "retailCode": null,
+    "name": null,
+    "hex": "#271e1f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "676",
+    "retailCode": null,
+    "name": null,
+    "hex": "#4e5244",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "682",
+    "retailCode": null,
+    "name": null,
+    "hex": "#1f1921",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "687",
+    "retailCode": null,
+    "name": null,
+    "hex": "#182322",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "689",
+    "retailCode": null,
+    "name": null,
+    "hex": "#3e3d31",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "694",
+    "retailCode": "590",
+    "name": "Clove",
+    "hex": "#362224",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "696",
+    "retailCode": "594",
+    "name": "Walnut",
+    "hex": "#25181e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "697",
+    "retailCode": "596",
+    "name": "Brown",
+    "hex": "#1f171d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "700",
+    "retailCode": null,
+    "name": null,
+    "hex": "#778a89",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "701",
+    "retailCode": "115",
+    "name": "Rail Grey",
+    "hex": "#596b6a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "702",
+    "retailCode": "116",
+    "name": "Smoke",
+    "hex": "#455152",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "707",
+    "retailCode": "792",
+    "name": "Forest Green",
+    "hex": "#172422",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "711",
+    "retailCode": "267",
+    "name": "Dark Navy",
+    "hex": "#1a2547",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "714",
+    "retailCode": "610",
+    "name": "Mystic Blue",
+    "hex": "#5abfc7",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "715",
+    "retailCode": "615",
+    "name": "River Blue",
+    "hex": "#35a1ab",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "716",
+    "retailCode": "914",
+    "name": "Lilac",
+    "hex": "#a56ba5",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "718",
+    "retailCode": "940",
+    "name": "Amethyst",
+    "hex": "#642864",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "722",
+    "retailCode": "506",
+    "name": "Sand",
+    "hex": "#d6c0a9",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "724",
+    "retailCode": "524",
+    "name": "Light Fawn",
+    "hex": "#8e7f69",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "727",
+    "retailCode": null,
+    "name": null,
+    "hex": "#625c53",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "728",
+    "retailCode": "335",
+    "name": "Strawberry",
+    "hex": "#fb86ac",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "730",
+    "retailCode": "326",
+    "name": "Rose",
+    "hex": "#96374e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "733",
+    "retailCode": "320",
+    "name": "Dusty Rose",
+    "hex": "#d5488c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "736",
+    "retailCode": "619",
+    "name": "Parakeet",
+    "hex": "#32abc4",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "755",
+    "retailCode": null,
+    "name": null,
+    "hex": "#263032",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "758",
+    "retailCode": "315",
+    "name": "Dawn Pink",
+    "hex": "#fba3bd",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "759",
+    "retailCode": "935",
+    "name": "Hyacinth",
+    "hex": "#2c4b86",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "761",
+    "retailCode": "621",
+    "name": "River Blue",
+    "hex": "#268eaa",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "763",
+    "retailCode": "670",
+    "name": "Bright Peacock",
+    "hex": "#39a5a4",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "764",
+    "retailCode": "638",
+    "name": "Deep Teal",
+    "hex": "#172d42",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "766",
+    "retailCode": null,
+    "name": null,
+    "hex": "#14191b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "767",
+    "retailCode": null,
+    "name": null,
+    "hex": "#432c25",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "769",
+    "retailCode": null,
+    "name": null,
+    "hex": "#271e20",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "774",
+    "retailCode": "591",
+    "name": "Tobacco",
+    "hex": "#382527",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "780",
+    "retailCode": null,
+    "name": null,
+    "hex": "#2b2123",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "786",
+    "retailCode": null,
+    "name": null,
+    "hex": "#2a527f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "788",
+    "retailCode": "126",
+    "name": "Glacier",
+    "hex": "#647f8f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "799",
+    "retailCode": null,
+    "name": null,
+    "hex": "#2c373e",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "800",
+    "retailCode": "020",
+    "name": "Nu White",
+    "hex": "#f7f7f3",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "802",
+    "retailCode": "022",
+    "name": "Eggshell",
+    "hex": "#faeedd",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "810",
+    "retailCode": "945",
+    "name": "Purple",
+    "hex": "#2e3a8a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "815",
+    "retailCode": "551",
+    "name": "Cocoa",
+    "hex": "#5b473d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "816",
+    "retailCode": null,
+    "name": null,
+    "hex": "#372b27",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "817",
+    "retailCode": "595",
+    "name": "Chestnut",
+    "hex": "#342928",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "818",
+    "retailCode": "521",
+    "name": "Nutria",
+    "hex": "#dae1c0",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "821",
+    "retailCode": null,
+    "name": null,
+    "hex": "#66936d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "824",
+    "retailCode": "774",
+    "name": "Green Bay",
+    "hex": "#61715f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "825",
+    "retailCode": "767",
+    "name": "Jungle Green",
+    "hex": "#646752",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "827",
+    "retailCode": null,
+    "name": null,
+    "hex": "#5b8a94",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "833",
+    "retailCode": "720",
+    "name": "Fern",
+    "hex": "#46a15c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "837",
+    "retailCode": "569",
+    "name": "Henna",
+    "hex": "#9f3225",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "842",
+    "retailCode": null,
+    "name": null,
+    "hex": "#906047",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "844",
+    "retailCode": "359",
+    "name": "Saddle Tan",
+    "hex": "#9a6567",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "847",
+    "retailCode": "560",
+    "name": "Spice",
+    "hex": "#974d41",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "850",
+    "retailCode": null,
+    "name": null,
+    "hex": "#896f57",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "851",
+    "retailCode": null,
+    "name": null,
+    "hex": "#72553f",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "852",
+    "retailCode": "807",
+    "name": "Lemon Peel",
+    "hex": "#fee785",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "854",
+    "retailCode": null,
+    "name": null,
+    "hex": "#b8beae",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "861",
+    "retailCode": null,
+    "name": null,
+    "hex": "#2b383a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "868",
+    "retailCode": "511",
+    "name": "Dove Beige",
+    "hex": "#9c836b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "869",
+    "retailCode": null,
+    "name": null,
+    "hex": "#1e4742",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "870",
+    "retailCode": "640",
+    "name": "Peacock",
+    "hex": "#123f55",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "875",
+    "retailCode": null,
+    "name": null,
+    "hex": "#374561",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "877",
+    "retailCode": "318",
+    "name": "Fuchsia",
+    "hex": "#a82f78",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "883",
+    "retailCode": null,
+    "name": null,
+    "hex": "#4b3640",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "886",
+    "retailCode": null,
+    "name": null,
+    "hex": "#907137",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "887",
+    "retailCode": "875",
+    "name": "Goldstone",
+    "hex": "#956a46",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "889",
+    "retailCode": null,
+    "name": null,
+    "hex": "#f38da1",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "890",
+    "retailCode": "330",
+    "name": "Hot Pink",
+    "hex": "#ed6288",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "893",
+    "retailCode": "823",
+    "name": "Sundew",
+    "hex": "#ddac6b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "895",
+    "retailCode": null,
+    "name": null,
+    "hex": "#f67e55",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "896",
+    "retailCode": "375",
+    "name": "Light Coral",
+    "hex": "#fb7871",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "903",
+    "retailCode": "635",
+    "name": "Light Teal",
+    "hex": "#2e637c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "904",
+    "retailCode": "637",
+    "name": "Arctic Night",
+    "hex": "#184464",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "909",
+    "retailCode": "347",
+    "name": "Crimson",
+    "hex": "#c93051",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "910",
+    "retailCode": null,
+    "name": null,
+    "hex": "#6d1b31",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "912",
+    "retailCode": null,
+    "name": null,
+    "hex": "#602557",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "913",
+    "retailCode": "724",
+    "name": "Willow Green",
+    "hex": "#7fb494",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "914",
+    "retailCode": null,
+    "name": null,
+    "hex": "#96bd97",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "915",
+    "retailCode": null,
+    "name": null,
+    "hex": "#286a54",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "916",
+    "retailCode": "685",
+    "name": "Nile Green",
+    "hex": "#266857",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "919",
+    "retailCode": "768",
+    "name": "Apple Green",
+    "hex": "#4f7b48",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "920",
+    "retailCode": "779",
+    "name": "Oak Leaf",
+    "hex": "#426342",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "924",
+    "retailCode": "605",
+    "name": "Robbin’s Egg",
+    "hex": "#78c2bc",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "925",
+    "retailCode": "675",
+    "name": "Jade",
+    "hex": "#388b6d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "926",
+    "retailCode": null,
+    "name": null,
+    "hex": "#ef7078",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "927",
+    "retailCode": null,
+    "name": null,
+    "hex": "#f9686b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "929",
+    "retailCode": "650",
+    "name": "Sea Foam",
+    "hex": "#8ac3bb",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "931",
+    "retailCode": "777",
+    "name": "Light Aspen",
+    "hex": "#487e5a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "932",
+    "retailCode": "474",
+    "name": "Curry",
+    "hex": "#d05a28",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "934",
+    "retailCode": "566",
+    "name": "Maple Sugar",
+    "hex": "#813a28",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "938",
+    "retailCode": null,
+    "name": null,
+    "hex": "#e19a7a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "946",
+    "retailCode": "616",
+    "name": "Oriental Blue",
+    "hex": "#2b98ab",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "959",
+    "retailCode": "249",
+    "name": "Blue Bird",
+    "hex": "#205a9d",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "965",
+    "retailCode": "215",
+    "name": "French Blue",
+    "hex": "#3682ac",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "966",
+    "retailCode": "636",
+    "name": "Mineral Blue",
+    "hex": "#1f5d83",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "967",
+    "retailCode": "241",
+    "name": "Atlantis",
+    "hex": "#163c62",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "968",
+    "retailCode": "865",
+    "name": "Gold",
+    "hex": "#da9950",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "972",
+    "retailCode": null,
+    "name": null,
+    "hex": "#3d4544",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "979",
+    "retailCode": "459",
+    "name": "Powder Peach",
+    "hex": "#febd8a",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "982",
+    "retailCode": "472",
+    "name": "Carrot",
+    "hex": "#d15c2b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "984",
+    "retailCode": "350",
+    "name": "South Sea Pink",
+    "hex": "#e57382",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "985",
+    "retailCode": null,
+    "name": null,
+    "hex": "#f78f9b",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "986",
+    "retailCode": null,
+    "name": null,
+    "hex": "#f6638c",
+    "source": "shade-card"
+  },
+  {
+    "wholesaleCode": "991",
+    "retailCode": "357",
+    "name": "Shell Tan",
+    "hex": "#c59187",
+    "source": "shade-card"
+  }
+]
